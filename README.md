@@ -36,11 +36,10 @@ java -jar SistemaFinancieroPersonal.jar
 
 ## Tecnologías utilizadas
 
-| Tecnología |          Uso            |
-|   Java 21  |   Lenguaje principal    |
-| Java Swing |    Interfaz gráfica     |
-|   iText 9  |    Generación de PDF    |
-|    Maven   | Gestión de dependencias |
+- **Java 21** — Lenguaje principal
+- **Java Swing** — Interfaz gráfica
+- **iText 9** — Generación de PDF
+- **Maven** — Gestión de dependencias
 
 ---
 
